@@ -4,7 +4,7 @@
 
 ### How to Enable "Results in a New Window" in Google Search
 
-Following is the procedure to enable results in a new iwndow in Google Search:
+Following is the procedure to enable results in a new window in Google Search:
 
 1. Open your web browser and go to [Google Search Settings](https://www.google.com/preferences)
 
