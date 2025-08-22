@@ -6,8 +6,8 @@ The process described in this section is only for tenants in production environm
 
 ## Prerequisites
 
-* Content **Premium** role with the **System Administrator (Full Control)** system-level permissions.
-* Enable acess on the tenant. Contact Seismic Support to enable access.
+* Content **Premium** role with **System Administrator (Full Control)** system-level permissions.
+* Tenant access enabled (Contact Seismic Support to enable access).
 
 ## Procedure
 
