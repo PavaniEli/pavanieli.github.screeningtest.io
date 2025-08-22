@@ -1,6 +1,6 @@
 # How to set up a new Seismic Knowledge tenant
 
-Following is the procedure to set up a new Seismic Knowledge tenant in production:
+Following is the procedure to set up a new Seismic Knowledge tenant:
 
 1. Go to Seismic product documentation site at [docs.seismic.com](https://docs.seismic.com/).
 2. Search for **Set up a new Seismic Knowledge tenant** in the search bar.
