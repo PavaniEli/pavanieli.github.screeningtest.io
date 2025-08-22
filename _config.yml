@@ -1,6 +1,6 @@
 # Site settings
 title: "Senior Technical Writer Screening Test"
-description: "Submitted by **Pavani Eli**"
+description: "Submitted by Pavani Eli"
 author:
   name: Pavani Eli
   email: pavani.eli@email.com
@@ -10,5 +10,4 @@ theme: jekyll-theme-minimal
 # Optional: Add navigation links
 plugins:
   - jekyll-seo-tag
-url: "https://pavanieli.github.io/pavanieli.github.screeningtest.io"   # your site URL
 
